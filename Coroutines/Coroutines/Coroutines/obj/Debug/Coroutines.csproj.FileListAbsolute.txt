@@ -1,0 +1,9 @@
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\bin\Debug\Coroutines.exe.config
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\bin\Debug\Coroutines.exe
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\bin\Debug\Coroutines.pdb
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\obj\Debug\Coroutines.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\obj\Debug\Coroutines.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\obj\Debug\Coroutines.exe
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\obj\Debug\Coroutines.pdb
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Coroutines\Coroutines\Coroutines\bin\Debug\Simulation.Core.pdb

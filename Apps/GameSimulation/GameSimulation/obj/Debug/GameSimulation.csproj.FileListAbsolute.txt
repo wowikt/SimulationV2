@@ -1,0 +1,12 @@
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\GameSimulation.exe.config
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\GameSimulation.exe
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\GameSimulation.pdb
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\GameSimulation.App.dll
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\bin\Debug\GameSimulation.App.pdb
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\obj\Debug\GameSimulation.csprojAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\obj\Debug\GameSimulation.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\obj\Debug\GameSimulation.csproj.CopyComplete
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\obj\Debug\GameSimulation.exe
+C:\VTProjects\Simulation_v2\Apps\GameSimulation\GameSimulation\obj\Debug\GameSimulation.pdb

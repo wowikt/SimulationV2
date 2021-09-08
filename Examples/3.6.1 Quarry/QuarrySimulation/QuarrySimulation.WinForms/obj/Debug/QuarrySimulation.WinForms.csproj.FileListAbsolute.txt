@@ -1,0 +1,16 @@
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\QuarrySimulation.WinForms.exe.config
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\QuarrySimulation.WinForms.exe
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\QuarrySimulation.WinForms.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\QuarrySimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\Simulation.WinForms.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\Simulation.WinForms.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\bin\Debug\QuarrySimulation.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.Properties.Resources.resources
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.QuarryForm.resources
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.csproj.GenerateResource.Cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.exe
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.WinForms\obj\Debug\QuarrySimulation.WinForms.pdb

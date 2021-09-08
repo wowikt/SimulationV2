@@ -1,0 +1,9 @@
+C:\VTProjects\Simulation_v2\Queens\Queens\bin\Debug\Queens.exe.config
+C:\VTProjects\Simulation_v2\Queens\Queens\bin\Debug\Queens.exe
+C:\VTProjects\Simulation_v2\Queens\Queens\bin\Debug\Queens.pdb
+C:\VTProjects\Simulation_v2\Queens\Queens\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Queens\Queens\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Queens\Queens\obj\Debug\Queens.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Queens\Queens\obj\Debug\Queens.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Queens\Queens\obj\Debug\Queens.exe
+C:\VTProjects\Simulation_v2\Queens\Queens\obj\Debug\Queens.pdb

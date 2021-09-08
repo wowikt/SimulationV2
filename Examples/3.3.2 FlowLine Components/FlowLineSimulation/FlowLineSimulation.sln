@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLineSimulation", "FlowLineSimulation.csproj", "{6A1B1217-CB34-420A-A569-96E39D9D488E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLineSimulation.App", "..\FlowLineSimulation.App\FlowLineSimulation.App.csproj", "{2895B155-844F-4A1A-B515-88378B507EDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{C37E1B9F-D0B5-4C26-A305-7D61667BE035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.Core", "..\..\..\Core\Simulation.Core\Simulation.Core.csproj", "{2606650C-54DD-4986-B1A8-1F0D57016B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.WinForms", "..\..\..\Core\Simulation.WinForms\Simulation.WinForms.csproj", "{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLineSimulation.WinForms", "..\FlowLineSimulation.WinForms\FlowLineSimulation.WinForms.csproj", "{6E49B3ED-F6C0-4433-94BD-F5D6E402D49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1B1217-CB34-420A-A569-96E39D9D488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1B1217-CB34-420A-A569-96E39D9D488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1B1217-CB34-420A-A569-96E39D9D488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1B1217-CB34-420A-A569-96E39D9D488E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2895B155-844F-4A1A-B515-88378B507EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2895B155-844F-4A1A-B515-88378B507EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2895B155-844F-4A1A-B515-88378B507EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2895B155-844F-4A1A-B515-88378B507EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E49B3ED-F6C0-4433-94BD-F5D6E402D49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E49B3ED-F6C0-4433-94BD-F5D6E402D49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E49B3ED-F6C0-4433-94BD-F5D6E402D49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E49B3ED-F6C0-4433-94BD-F5D6E402D49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2606650C-54DD-4986-B1A8-1F0D57016B98} = {C37E1B9F-D0B5-4C26-A305-7D61667BE035}
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1} = {C37E1B9F-D0B5-4C26-A305-7D61667BE035}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6E0DA4-0A04-4FBA-B7B5-2DE77AEC2FAB}
+	EndGlobalSection
+EndGlobal

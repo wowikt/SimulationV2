@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PertNetworkSimulation", "PertNetworkSimulation\PertNetworkSimulation.csproj", "{0CE431EF-A930-486E-AF51-5CF9A0B8D4AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{45515538-6AF5-4A58-BFC9-8C386BBA91A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.Core", "..\..\..\Core\Simulation.Core\Simulation.Core.csproj", "{2606650C-54DD-4986-B1A8-1F0D57016B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.WinForms", "..\..\..\Core\Simulation.WinForms\Simulation.WinForms.csproj", "{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PertNetworkSimulation.App", "PertNetworkSimulation.App\PertNetworkSimulation.App.csproj", "{23D21998-7552-4A09-8C19-6A6255076018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PertNetworkSimulation.WinForms", "PertNetworkSimulation.WinForms\PertNetworkSimulation.WinForms.csproj", "{4560376D-2A02-4AAE-9004-047406940AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE431EF-A930-486E-AF51-5CF9A0B8D4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE431EF-A930-486E-AF51-5CF9A0B8D4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE431EF-A930-486E-AF51-5CF9A0B8D4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE431EF-A930-486E-AF51-5CF9A0B8D4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D21998-7552-4A09-8C19-6A6255076018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D21998-7552-4A09-8C19-6A6255076018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D21998-7552-4A09-8C19-6A6255076018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D21998-7552-4A09-8C19-6A6255076018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4560376D-2A02-4AAE-9004-047406940AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4560376D-2A02-4AAE-9004-047406940AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4560376D-2A02-4AAE-9004-047406940AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4560376D-2A02-4AAE-9004-047406940AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2606650C-54DD-4986-B1A8-1F0D57016B98} = {45515538-6AF5-4A58-BFC9-8C386BBA91A0}
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1} = {45515538-6AF5-4A58-BFC9-8C386BBA91A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341FD36F-E9F5-42D6-AD3A-67654805FE22}
+	EndGlobalSection
+EndGlobal

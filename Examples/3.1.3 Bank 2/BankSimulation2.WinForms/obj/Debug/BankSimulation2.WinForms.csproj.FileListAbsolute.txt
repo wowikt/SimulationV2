@@ -1,0 +1,16 @@
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.BankVisual.resources
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.Properties.Resources.resources
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.csproj.GenerateResource.Cache
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\BankSimulation2.WinForms.exe.config
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\BankSimulation2.WinForms.exe
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\BankSimulation2.WinForms.pdb
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\BankSimulation2.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\Simulation.WinForms.dll
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\Simulation.WinForms.pdb
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\bin\Debug\BankSimulation2.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.exe
+C:\VTProjects\Simulation_v2\Examples\3.1.3 Bank 2\BankSimulation2.WinForms\obj\Debug\BankSimulation2.WinForms.pdb

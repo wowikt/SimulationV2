@@ -1,0 +1,16 @@
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\bin\Debug\ShopSimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\bin\Debug\ShopSimulation.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\obj\Debug\ShopSimulation.App.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\obj\Debug\ShopSimulation.App.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\obj\Debug\ShopSimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.App\obj\Debug\ShopSimulation.App.pdb
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\bin\Debug\ShopSimulation.App.dll
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\bin\Debug\ShopSimulation.App.pdb
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\bin\Debug\Simulation.Core.dll
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\bin\Debug\Simulation.Core.pdb
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\obj\Debug\ShopSimulation.App.csprojResolveAssemblyReference.cache
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\obj\Debug\ShopSimulation.App.csproj.CoreCompileInputs.cache
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\obj\Debug\ShopSimulation.App.dll
+c:\VTProjects\Simulation_v2\Examples\3.2.5 Shop Components\ShopSimulation.App\obj\Debug\ShopSimulation.App.pdb

@@ -1,0 +1,22 @@
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.exe.config
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.exe
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.exe
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.pdb
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.exe.config
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.exe
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.pdb
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.App.dll
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\Simulation.Core.dll
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\Simulation.Core.pdb
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\bin\Debug\QuarrySimulation.App.pdb
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.csprojResolveAssemblyReference.cache
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.csproj.CoreCompileInputs.cache
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.exe
+c:\VTProjects\Simulation_v2\Examples\3.6.2 Quarry ComponentService\QuarrySimulation\QuarrySimulation\obj\Debug\QuarrySimulation.pdb

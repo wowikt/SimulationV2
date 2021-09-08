@@ -1,0 +1,16 @@
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\ShopSimulation.WinForms.exe.config
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\ShopSimulation.WinForms.exe
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\ShopSimulation.WinForms.pdb
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\ShopSimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\Simulation.WinForms.dll
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\Simulation.WinForms.pdb
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\bin\Debug\ShopSimulation.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.Properties.Resources.resources
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.ShopVisual.resources
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.csproj.GenerateResource.Cache
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.exe
+C:\VTProjects\Simulation_v2\Examples\3.2.1 Shop\ShopSimulation.WinForms\obj\Debug\ShopSimulation.WinForms.pdb

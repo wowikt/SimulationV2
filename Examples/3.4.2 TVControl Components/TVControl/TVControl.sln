@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVControl", "TVControl\TVControl.csproj", "{54FBC6E1-8FD8-47F8-8B6B-7D5B9BB855BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{6D43461C-5B17-494D-9A6D-D4E2D0769A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.Core", "..\..\..\Core\Simulation.Core\Simulation.Core.csproj", "{2606650C-54DD-4986-B1A8-1F0D57016B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.WinForms", "..\..\..\Core\Simulation.WinForms\Simulation.WinForms.csproj", "{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVControl.App", "..\TVControl.App\TVControl.App.csproj", "{01C9484E-8409-4905-8F4C-2EF38BDE6557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVControl.WinForms", "..\TVControl.WinForms\TVControl.WinForms.csproj", "{702C7C7E-40C4-4626-BAF3-BAA57D3D5E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FBC6E1-8FD8-47F8-8B6B-7D5B9BB855BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FBC6E1-8FD8-47F8-8B6B-7D5B9BB855BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FBC6E1-8FD8-47F8-8B6B-7D5B9BB855BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FBC6E1-8FD8-47F8-8B6B-7D5B9BB855BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2606650C-54DD-4986-B1A8-1F0D57016B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C9484E-8409-4905-8F4C-2EF38BDE6557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C9484E-8409-4905-8F4C-2EF38BDE6557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C9484E-8409-4905-8F4C-2EF38BDE6557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C9484E-8409-4905-8F4C-2EF38BDE6557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702C7C7E-40C4-4626-BAF3-BAA57D3D5E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702C7C7E-40C4-4626-BAF3-BAA57D3D5E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702C7C7E-40C4-4626-BAF3-BAA57D3D5E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702C7C7E-40C4-4626-BAF3-BAA57D3D5E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2606650C-54DD-4986-B1A8-1F0D57016B98} = {6D43461C-5B17-494D-9A6D-D4E2D0769A7C}
+		{CCFD40F3-81AA-4AFF-A5D4-701AE3A8C2D1} = {6D43461C-5B17-494D-9A6D-D4E2D0769A7C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6588B397-4551-4C6E-BB12-C1E8D1B3BEC3}
+	EndGlobalSection
+EndGlobal

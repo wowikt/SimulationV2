@@ -1,0 +1,8 @@
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\bin\Debug\PertNetworkSimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\bin\Debug\PertNetworkSimulation.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\obj\Debug\PertNetworkSimulation.App.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\obj\Debug\PertNetworkSimulation.App.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\obj\Debug\PertNetworkSimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.7.1 PertNetwork\PertNetworkSimulation\PertNetworkSimulation.App\obj\Debug\PertNetworkSimulation.App.pdb

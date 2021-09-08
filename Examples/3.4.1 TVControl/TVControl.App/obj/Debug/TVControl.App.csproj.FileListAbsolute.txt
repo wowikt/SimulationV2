@@ -1,0 +1,8 @@
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\bin\Debug\TVControl.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\bin\Debug\TVControl.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\obj\Debug\TVControl.App.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\obj\Debug\TVControl.App.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\obj\Debug\TVControl.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.4.1 TVControl\TVControl.App\obj\Debug\TVControl.App.pdb

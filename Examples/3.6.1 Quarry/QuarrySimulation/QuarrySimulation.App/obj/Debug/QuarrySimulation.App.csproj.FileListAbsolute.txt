@@ -1,0 +1,8 @@
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\bin\Debug\QuarrySimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\bin\Debug\QuarrySimulation.App.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\bin\Debug\Simulation.Core.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\bin\Debug\Simulation.Core.pdb
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\obj\Debug\QuarrySimulation.App.csprojResolveAssemblyReference.cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\obj\Debug\QuarrySimulation.App.csproj.CoreCompileInputs.cache
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\obj\Debug\QuarrySimulation.App.dll
+C:\VTProjects\Simulation_v2\Examples\3.6.1 Quarry\QuarrySimulation\QuarrySimulation.App\obj\Debug\QuarrySimulation.App.pdb
